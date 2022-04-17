@@ -24,7 +24,7 @@
 ### Dependencies
 * Linux
 * A Chromium or Firefox based browser that supports custom protocols
-* TamperMonkey or GreaseMonkey extension
+* A userscript manager extension
 
 ### Installing & Running
 **Step 1 - `.desktop` installation**
