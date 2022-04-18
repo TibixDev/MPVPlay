@@ -23,8 +23,10 @@
 
 ### Dependencies
 * Linux
+* [mpv](https://github.com/mpv-player/mpv)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * A Chromium or Firefox based browser that supports custom protocols
-* A userscript manager extension
+* A userscript manager extension, for example [ViolentMonkey](https://violentmonkey.github.io/)
 
 ### Installing & Running
 **Step 1 - `.desktop` installation**
