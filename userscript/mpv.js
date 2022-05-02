@@ -53,8 +53,8 @@
             margin-right: 10px;
             padding-left: 10px;
             padding-right: 10px;
-            font-size: var(--ytd-tab-system_-_font-size);
-            font-weight: var(--ytd-tab-system_-_font-weight);
+            font-size: var(--ytd-tab-system-font-size);
+            font-weight: var(--ytd-tab-system-font-weight);
             font-family: Roboto, Arial, sans-serif;
             border: 0;
             transition: all 0.2s ease-in-out;
