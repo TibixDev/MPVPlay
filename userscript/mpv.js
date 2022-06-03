@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         YouTube MPV Player
-// @version      0.1
+// @version      0.2
 // @description  This little script opens any YouTube video in MPV with a simple button click
 // @author       TibixDev
 // @match        https://www.youtube.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @icon         https://i.imgur.com/o2042cG.png
 // @grant        GM_addStyle
 // ==/UserScript==
 
@@ -35,7 +35,7 @@
             waitForButtons = setButtonInterval();
             location = window.location.href;
         }
-    }, 2000);
+    }, 1000);
 
     function addMpvButton() {
         clearInterval(waitForButtons);
